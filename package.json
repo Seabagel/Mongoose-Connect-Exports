@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-connect-exports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seabagel/Mongoose-Connect-Exports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seabagel/Mongoose-Connect-Exports/issues"
+  },
+  "homepage": "https://github.com/Seabagel/Mongoose-Connect-Exports#readme",
+  "dependencies": {
+    "mongoose": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
